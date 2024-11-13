@@ -90,4 +90,3 @@ let galleryShow = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
   captionClass: 'imageTitle',
 });
-galleryShow.on('show.simplelightbox');
